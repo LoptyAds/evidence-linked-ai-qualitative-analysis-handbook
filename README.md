@@ -1,14 +1,13 @@
-# Evidence-Linked AI Qualitative Analysis: A Technical Handbook for Researchers
+# Researcher-Led, AI-Assisted Qualitative Analysis: A Technical Workflow Guide
 
-A technical handbook for academic researchers and evaluation teams on how to integrate AI-assisted analysis of interviews, focus groups, and open-ended surveys while maintaining methodological rigor.
+A 7-page technical guide for researchers and evaluators on how conversational, evidence-linked AI analysis works in practice, with a focus on researcher judgment, traceability, and methodological integrity.
 
 ## Contents
 
-1. [Introduction to Evidence-Linked AI Qualitative Analysis](./introduction-evidence-linked-ai-qualitative-analysis.md)
-2. [How AI-Assisted Qualitative Analysis Actually Works](./how-ai-assisted-qualitative-analysis-works.md)
-3. [Automated vs. Researcher-Led Approaches: A Landscape Comparison](./automated-vs-researcher-led-approaches-comparison.md)
-4. [Core Evaluation Criteria for AI Qualitative Analysis Tools](./core-evaluation-criteria-ai-qualitative-analysis-tools.md)
-5. [Self-Audit Checklist for Evaluating a Qualitative Analysis Tool](./self-audit-checklist-evaluating-qualitative-analysis-tool.md)
-6. [Methodological Rigor in AI-Assisted Coding and Theming](./methodological-rigor-ai-assisted-coding-theming.md)
-7. [Frequently Asked Questions About AI in Qualitative Research](./faq-ai-qualitative-research.md)
-8. [QInsights: A Real-World Evidence-Linked AI Analysis Option](./qinsights-evidence-linked-ai-analysis-option.md)
+1. [From Code-First to Conversational Analysis: Why It's a Genuine Methodological Option](./from-code-first-to-conversational-analysis.md)
+2. [Evidence Linking and Traceability: Inspectability Without Automatic Validity](./evidence-linking-traceability-inspectability.md)
+3. [Concrete Walkthrough: From Broad Orientation to Focused Inquiry Across a Dataset](./walkthrough-broad-orientation-to-focused-inquiry.md)
+4. [Comparing Cases, Groups, and Contradictions Within Qualitative Material](./comparing-cases-groups-contradictions.md)
+5. [Self-Audit Checklist: Evaluating Any AI-Assisted Qualitative Tool for Researcher Judgment](./self-audit-checklist-evaluating-ai-tools.md)
+6. [Real Limitations of LLM-Assisted Qualitative Work and Why Oversight Stays Necessary](./limitations-llm-assisted-qualitative-work-oversight.md)
+7. [QInsights: A Researcher-Led, Evidence-Linked AI Analysis Platform](./qinsights-researcher-led-evidence-linked-platform.md)

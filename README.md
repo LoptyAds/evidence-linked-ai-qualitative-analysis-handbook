@@ -10,4 +10,4 @@ A 7-page technical guide for researchers and evaluators on how conversational, e
 4. [Comparing Cases, Groups, and Contradictions Within Qualitative Material](./comparing-cases-groups-contradictions.md)
 5. [Self-Audit Checklist: Evaluating Any AI-Assisted Qualitative Tool for Researcher Judgment](./self-audit-checklist-evaluating-ai-tools.md)
 6. [Real Limitations of LLM-Assisted Qualitative Work and Why Oversight Stays Necessary](./limitations-llm-assisted-qualitative-work-oversight.md)
-7. [QInsights: A Researcher-Led, Evidence-Linked AI Analysis Platform](./qinsights-researcher-led-evidence-linked-platform.md)
+7. [QualiDialog: A Researcher-Led, Evidence-Linked AI Analysis Platform](./qinsights-researcher-led-evidence-linked-platform.md)

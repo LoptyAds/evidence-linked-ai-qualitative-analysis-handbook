@@ -8,7 +8,7 @@ This follows one researcher's path through that dataset using an evidence-linked
 
 ## Initial Ingestion and Orientation
 
-The researcher uploads everything into QInsights. The platform processes the text into a searchable corpus. No codes assigned. No themes extracted automatically. The summary view shows total word counts per source type, date ranges, speaker labels where available, and documents grouped by source category (interviews, focus groups, surveys).
+The researcher uploads everything into QualiDialog. The platform processes the text into a searchable corpus. No codes assigned. No themes extracted automatically. The summary view shows total word counts per source type, date ranges, speaker labels where available, and documents grouped by source category (interviews, focus groups, surveys).
 
 First action: not asking for themes. Checking coverage. A query: *"Show me all passages where participants describe their first encounter with the EHR system."*
 

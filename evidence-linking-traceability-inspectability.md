@@ -10,7 +10,7 @@ Evidence linking solves for addressability. Every analytical claim, every theme,
 
 ## How Evidence Linking Works in Practice
 
-In a researcher-led tool like QInsights, evidence linking is not a post-hoc attachment of citations after analysis completes. It is structural. When the AI retrieves passages in response to a researcher's question, those passages remain attached to their source context. When the AI synthesises across multiple sources, each synthesised point carries references to the specific extracts that contributed.
+In a researcher-led tool like QualiDialog, evidence linking is not a post-hoc attachment of citations after analysis completes. It is structural. When the AI retrieves passages in response to a researcher's question, those passages remain attached to their source context. When the AI synthesises across multiple sources, each synthesised point carries references to the specific extracts that contributed.
 
 The workflow looks like this:
 

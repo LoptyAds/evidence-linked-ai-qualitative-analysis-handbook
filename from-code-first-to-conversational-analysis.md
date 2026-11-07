@@ -26,7 +26,7 @@ The rationale for conversational analysis draws on established qualitative tradi
 
 These traditions have always existed alongside coding-heavy methodologies. What changed is that AI now makes conversational analysis practical at scale. A researcher can ask a question of 40 interview transcripts and receive relevant, source-linked passages in seconds, then ask a follow-up, then compare across a subgroup. The technical barrier that once forced researchers to code first, the sheer impossibility of manually searching and synthesizing across a large corpus without some organizational system, has been lowered.
 
-The tool does not do the thinking. QInsights, as one example of this category, is designed around researcher-led inquiry. It supports movement between broad orientation and focused analysis, retains links to supporting source material, and treats the researcher as the authority on what the evidence supports. The platform expands the repertoire of available methods; it does not prescribe one.
+The tool does not do the thinking. QualiDialog, as one example of this category, is designed around researcher-led inquiry. It supports movement between broad orientation and focused analysis, retains links to supporting source material, and treats the researcher as the authority on what the evidence supports. The platform expands the repertoire of available methods; it does not prescribe one.
 
 ## When Conversational Analysis Falls Short
 
